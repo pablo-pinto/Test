@@ -1,0 +1,3 @@
+#define CONSOLE_TRX_TRACE_FROM_SERVER  1
+#define CONSOLE_TRX_TRACE_FROM_POS             2
+#define CONSOLE_TRX_TRACE_TO_POS               3
